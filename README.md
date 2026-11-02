@@ -1,6 +1,6 @@
 # Swarms Marketplace skills and plugin
 
-<p align="center">
+<p align="left">
   <a href="https://skills.sh/The-Swarm-Corporation/swarms-skills"><img src="https://img.shields.io/badge/skills.sh-npx%20skills%20add-F5070C?style=for-the-badge&amp;labelColor=0A0A0A" alt="skills.sh"></a>
   <a href="https://swarms.world/mcp-skill.md"><img src="https://img.shields.io/badge/MCP-swarms.world%2Fmcp-F5070C?style=for-the-badge&amp;labelColor=0A0A0A&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP server"></a>
   <a href="https://insiders.vscode.dev/redirect/mcp/install?name=swarms-marketplace&amp;config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A//swarms.world/mcp%22%2C%22headers%22%3A%7B%22Authorization%22%3A%22Bearer%20%24%7Binput%3Aswarms_api_key%7D%22%7D%7D&amp;inputs=%5B%7B%22type%22%3A%22promptString%22%2C%22id%22%3A%22swarms_api_key%22%2C%22description%22%3A%22Swarms%20API%20key%20%28https%3A//swarms.world/platform/api-keys%29%22%2C%22password%22%3Atrue%7D%5D"><img src="https://img.shields.io/badge/VS%20Code-Install%20MCP-007ACC?style=for-the-badge&amp;labelColor=0A0A0A" alt="Install in VS Code"></a>
