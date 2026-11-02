@@ -1,0 +1,6 @@
+# Local installs made by `npx skills add` when run inside this repo
+.agents/skills/
+.claude/
+skills-lock.json
+
+.DS_Store
