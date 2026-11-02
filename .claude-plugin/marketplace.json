@@ -1,0 +1,15 @@
+{
+  "name": "swarms",
+  "description": "Plugins from The Swarm Corporation for the Swarms Marketplace (swarms.world).",
+  "owner": {
+    "name": "The Swarm Corporation",
+    "url": "https://swarms.world"
+  },
+  "plugins": [
+    {
+      "name": "swarms-marketplace",
+      "source": "./",
+      "description": "Search, read, publish and review AI agents, prompts, tools and MCP servers on swarms.world."
+    }
+  ]
+}

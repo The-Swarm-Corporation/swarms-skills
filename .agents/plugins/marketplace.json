@@ -1,0 +1,20 @@
+{
+  "name": "swarms",
+  "interface": {
+    "displayName": "Swarms"
+  },
+  "plugins": [
+    {
+      "name": "swarms-marketplace",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/The-Swarm-Corporation/swarms-skills.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

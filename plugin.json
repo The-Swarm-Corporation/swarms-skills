@@ -1,0 +1,43 @@
+{
+  "name": "swarms-marketplace",
+  "version": "1.0.0",
+  "description": "Search, read, publish and review AI agents, prompts, tools and MCP servers on swarms.world.",
+  "author": {
+    "name": "The Swarm Corporation",
+    "url": "https://swarms.world"
+  },
+  "homepage": "https://swarms.world/developers",
+  "repository": "https://github.com/The-Swarm-Corporation/swarms-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "swarms",
+    "marketplace",
+    "agents",
+    "prompts",
+    "mcp"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Swarms Marketplace",
+        "shortDescription": "Find and publish AI agents, prompts, tools and MCP servers",
+        "longDescription": "Search the Swarms Marketplace (swarms.world) for ready-made AI agents, prompts, tools and MCP servers, read their details and reviews, and publish or edit your own listings through the Swarms Marketplace MCP server.",
+        "developerName": "The Swarm Corporation",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "websiteURL": "https://swarms.world",
+        "privacyPolicyURL": "https://swarms.world/privacy",
+        "termsOfServiceURL": "https://swarms.world/terms",
+        "defaultPrompt": [
+          "Use Swarms Marketplace to find an agent that summarizes research papers.",
+          "Use Swarms Marketplace to show the top MCP servers for web scraping."
+        ],
+        "brandColor": "#F5070C",
+        "logo": "./assets/swarms-logo.svg"
+      }
+    }
+  }
+}
